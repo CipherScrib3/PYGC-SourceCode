@@ -1,7 +1,7 @@
 import pygame
 import serial
 import random
-
+ 
 # Initialize Pygame and Serial Port
 try:
     pygame.init()
